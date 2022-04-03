@@ -1,1 +1,1 @@
-# Option-Pricing-Technical-Appendix
+# Adam-Smith-Technical-Appendix
